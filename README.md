@@ -169,4 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Yonas Leykun
+Ibuanokpe Peter <cephaspeter37@gmail.com>
+Rasheeed-git <Harunarrasheeed@gmail.com>
